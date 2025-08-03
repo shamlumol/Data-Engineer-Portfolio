@@ -74,7 +74,7 @@ const About = () => {
     },
     Experience: {
       title: "My Experience",
-      text: "With 2+ years of experience in database development and data analysis, I've worked on numerous projects involving SQL-based solutions and data pipelines.",
+      text: "With 3+ years of experience in database development and data analysis, I've worked on numerous projects involving SQL-based solutions and data pipelines.",
       custom: (
         <div className="experience-timeline"  data-aos="zoom-in-down">
           <div className="timeline-item">
