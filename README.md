@@ -22,14 +22,14 @@ Built with React and modern web technologies, this portfolio demonstrates:
 
 
 
-**Typewriter Hero Section** : Animated introduction with gradient text 
-**Tabbed About Section** : Organized personal info, experience, education, skills 
-**Expandable Project Cards** : Click to reveal detailed project information 
-**Category Filtering** : Filter projects by type (Data Analytics / Database Development) 
-**Pagination** : Browse through 10+ projects with intuitive navigation 
-**Fully Responsive** : Optimized for all devices from mobile to desktop 
-**Dark Theme** : Professional gradient backgrounds with sparkle hover effects 
-**Contact Integration** : LinkedIn and email links with smooth animations 
+- **Typewriter Hero Section** : Animated introduction with gradient text 
+- **Tabbed About Section** : Organized personal info, experience, education, skills 
+- **Expandable Project Cards** : Click to reveal detailed project information 
+- **Category Filtering** : Filter projects by type 
+- **Pagination** : Browse through 10+ projects with intuitive navigation 
+- **Fully Responsive** : Optimized for all devices from mobile to desktop
+- **Dark Theme** : Professional gradient backgrounds with sparkle hover effects 
+- **Contact Integration** : LinkedIn and email links with smooth animations 
 
 ---
 
@@ -59,13 +59,13 @@ Built with React and modern web technologies, this portfolio demonstrates:
 
 **Responsive Design Breakpoints**
 
-Device	Screen Size	Layout
-Desktop Large	1440px+	Enhanced typography
-Desktop	1024px - 1440px	Standard grid
-Tablet	768px - 1024px	Adjusted spacing
-Mobile	480px - 768px	Stacked layout
-Small Mobile	<480px	Optimized typography
-Landscape	Any	Special handling
+- Device	Screen Size	Layout
+- Desktop Large	1440px+	Enhanced typography
+- Desktop	1024px - 1440px	Standard grid
+- Tablet	768px - 1024px	Adjusted spacing
+- Mobile	480px - 768px	Stacked layout
+- Small Mobile	<480px	Optimized typography
+- Landscape	Any	Special handling
 
 
 ---
@@ -84,20 +84,6 @@ Custom Scrollbar - Styled to match dark theme
 Consistent Typography - Poppins font family throughout
 
 Floating Particles - Subtle background animations
-
----
-
-
-**Privacy & Security**
-Client's personal image is not included in this repository
-
-Image is added manually during Netlify deployment
-
-No sensitive data or API keys in the code
-
-Professional handling of client information
-
-If you're cloning this project, please add your own image at src/assets/profile.jpg for local development.
 
 ---
 
