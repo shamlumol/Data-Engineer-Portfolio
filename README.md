@@ -60,14 +60,6 @@ Built with React and modern web technologies, this portfolio demonstrates:
 
 ---
 
-## Quick Start Guide
-
-### Prerequisites
-- Node.js (v18 or higher)
-- npm (v9 or higher)
-
----
-
 ### Installation & Setup
 
 1. **Clone the repository**
