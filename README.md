@@ -60,15 +60,6 @@ Built with React and modern web technologies, this portfolio demonstrates:
 
 ---
 
-### Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/client-portfolio.git
-   cd client-portfolio
-
----
-
 **Responsive Design Breakpoints**
 
 Device	Screen Size	Layout
