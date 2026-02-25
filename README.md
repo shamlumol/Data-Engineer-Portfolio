@@ -45,10 +45,7 @@ Built with React and modern web technologies, this portfolio demonstrates:
 
 ### Development Tools
 - **Vite** - Fast build tool and development server
-- **ESLint** - Code linting for consistent style
 - **Git** - Version control
-
-
 
 ---
 
